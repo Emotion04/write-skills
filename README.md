@@ -1,6 +1,6 @@
 # write-skills
 
-写出更高质量的 Skills。基于 Claude Code 之父 Thariq Shihipar 的核心观点——Claude Code 移除了 80% system prompt 后 coding eval 无性能损失——最好的 Skill 是最短但仍守住契约的那一个。
+写出更高质量的 Skills。基于 Thariq Shihipar 的核心观点——Claude Code 移除了 80% system prompt 后 coding eval 无性能损失——最好的 Skill 是最短但仍守住契约的那一个。
 
 信任模型已有能力，只写目标、硬边界与可验证的完成条件；模型已知的不写，环境可查的不写，没失败过的不预防。
 
